@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creating a project and saving it.md",
+                "file": "Building and naming paths.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Creating a project and saving it"
+              "title": "Building and naming paths"
+            }
+          },
+          {
+            "id": "f6ec64f57c17a659",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Building and naming paths.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Building and naming paths"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,40 +198,46 @@
       "bases:Create new base": false
     }
   },
-  "active": "647118fcf790c4a4",
+  "active": "f6ec64f57c17a659",
   "lastOpenFiles": [
-    "Pasted image 20260613000314.png",
     "Choreo.md",
-    "Creating a project and saving it.md",
-    "Pasted image 20260612235150.png",
-    "Pasted image 20260612235058.png",
-    "Installing Choreo.md",
     "How to software on the 4911 Cyberknights.md",
     "Robot Radio.md",
-    "Troubleshoot the radio.md",
     "Configure the radio.md",
     "FRC Driver Station.md",
-    "Recover from an E-stop.md",
     "Run an autonomous routine.md",
-    "Robot Power and Batteries.md",
-    "Replace and test a battery.md",
-    "Safe battery handling.md",
-    "Pasted image 20260611115836.png",
-    "Enable and disable the robot.md",
-    "PhotonVision.md",
     "Connect controllers.md",
+    "Recover from an E-stop.md",
+    "Enable and disable the robot.md",
+    "Robot Power and Batteries.md",
+    "Reading battery voltage.md",
+    "Safe battery handling.md",
+    "Replace and test a battery.md",
+    "Building and naming paths.md",
+    "Configure the radio.md.tmp.70847.cf0176ec9781",
+    "Installing Choreo.md.tmp.70847.d59491b485f4",
+    "Creating a project and saving it.md.tmp.70847.5f10147b8c08",
+    "Configuring the robot physics.md.tmp.70847.266b733ccc5e",
+    "Calculating MOI.md.tmp.70847.a9bf3256d295",
+    "Choreo.md.tmp.70847.949466224a4f",
+    "Configuring the robot physics.md",
+    "Calculating MOI.md",
+    "Pictues/Pasted image 20260613110254.png",
+    "Pictues/Pasted image 20260613110140.png",
+    "Pictues/Pasted image 20260613110021.png",
+    "Creating a project and saving it.md",
+    "Installing Choreo.md",
+    "Pictues/Pasted image 20260613000314.png",
+    "Pictues/Pasted image 20260612235150.png",
+    "Pictues/Pasted image 20260612235058.png",
+    "Troubleshoot the radio.md",
+    "Pictues/Pasted image 20260611115836.png",
+    "PhotonVision.md",
     "Phoenix Tuner X.md",
     "Run an autonomous routine.md.tmp.124244.f9dddbe35305",
     "Connect controllers.md.tmp.124244.94d6c273db33",
     "Recover from an E-stop.md.tmp.124244.8e65131ee542",
     "Enable and disable the robot.md.tmp.124244.f5003945733e",
-    "Reading battery voltage.md.tmp.124244.1d8d69bc13f6",
-    "Safe battery handling.md.tmp.124244.29d80ba76400",
-    "Replace and test a battery.md.tmp.124244.89d0b0ddf05d",
-    "Simulator.md.tmp.124244.0fc5c7c13486",
-    "Subsystem Stub.md.tmp.124244.013bc31647cb",
-    "PhotonVision.md.tmp.124244.4b2003564925",
-    "Reading battery voltage.md",
     "Pictues/Pasted image 20260610145205.png",
     "Subsystem Stub.md",
     "Simulator.md",

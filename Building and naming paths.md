@@ -1,0 +1,4 @@
+Building and naming paths is quite simple, as you will learn with Choreo, 90% of the stuff is quite simple. Just a heads up, from here on out I assume that you have a fully configured document with robot physics, and have the correct saving location for all project. 
+
+- On the menu to the left, you will see a menu called PATHS and then below it it will probably say "NewPath". 
+- The renaming of it is for some reason really hard to change so you will click on "NewPath" once, then double click it, highlighting the text, then click on it one last time, your typing cursor or wtv you call it should start blinking and you can type it. I'm going to name mine "GrantsAuto.": 21
