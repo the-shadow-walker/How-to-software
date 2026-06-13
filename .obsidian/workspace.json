@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "5e77d8c1f2c50c99",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9415faceda02b12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "647118fcf790c4a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creating a project and saving it.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Creating a project and saving it"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4638e75f7da33e60",
+    "type": "split",
+    "children": [
+      {
+        "id": "15147e617d0d8a3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d38eebebf7d5853e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "103359f287db12bd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e8a6025ca7b575d3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b0cafbd70cd6bffe",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1acecbf927b1d56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f203d7f5b9e5ed8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Recover from an E-stop.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Recover from an E-stop"
+            }
+          },
+          {
+            "id": "b12d180312d213fd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Recover from an E-stop.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Recover from an E-stop"
+            }
+          },
+          {
+            "id": "921e15eb6e72c643",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "aade60d243172e6a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "26bda77c918b230e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Recover from an E-stop.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Recover from an E-stop"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "647118fcf790c4a4",
+  "lastOpenFiles": [
+    "Pasted image 20260613000314.png",
+    "Choreo.md",
+    "Creating a project and saving it.md",
+    "Pasted image 20260612235150.png",
+    "Pasted image 20260612235058.png",
+    "Installing Choreo.md",
+    "How to software on the 4911 Cyberknights.md",
+    "Robot Radio.md",
+    "Troubleshoot the radio.md",
+    "Configure the radio.md",
+    "FRC Driver Station.md",
+    "Recover from an E-stop.md",
+    "Run an autonomous routine.md",
+    "Robot Power and Batteries.md",
+    "Replace and test a battery.md",
+    "Safe battery handling.md",
+    "Pasted image 20260611115836.png",
+    "Enable and disable the robot.md",
+    "PhotonVision.md",
+    "Connect controllers.md",
+    "Phoenix Tuner X.md",
+    "Run an autonomous routine.md.tmp.124244.f9dddbe35305",
+    "Connect controllers.md.tmp.124244.94d6c273db33",
+    "Recover from an E-stop.md.tmp.124244.8e65131ee542",
+    "Enable and disable the robot.md.tmp.124244.f5003945733e",
+    "Reading battery voltage.md.tmp.124244.1d8d69bc13f6",
+    "Safe battery handling.md.tmp.124244.29d80ba76400",
+    "Replace and test a battery.md.tmp.124244.89d0b0ddf05d",
+    "Simulator.md.tmp.124244.0fc5c7c13486",
+    "Subsystem Stub.md.tmp.124244.013bc31647cb",
+    "PhotonVision.md.tmp.124244.4b2003564925",
+    "Reading battery voltage.md",
+    "Pictues/Pasted image 20260610145205.png",
+    "Subsystem Stub.md",
+    "Simulator.md",
+    "Welcome.md"
+  ]
+}
