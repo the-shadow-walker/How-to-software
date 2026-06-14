@@ -7,7 +7,7 @@ There are a few things you will need to know before you actually make an autonom
 - [ ] [[Creating a project and saving it]]
 - [ ] [[Configuring the robot physics]]
 - [ ] [[Building and naming paths]]
-- [ ] [[Adding it to the auto picker and code]]
+- [ ] [[Adding the auto to the auto picker and code]]
 
 ## What you should be able to do
 - [ ] [[Move on X or Y axis]]
