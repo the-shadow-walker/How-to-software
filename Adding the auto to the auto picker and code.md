@@ -15,7 +15,7 @@ SmartDashboard.putData("Autos", autoChooser);
    ```
 4. On the next available line inside of that method, add something like this (change according to the name of your auto of course):
    ```java
-   autoChooser.addRoutine("GrantAutos", this::GrantAutos);
+   autoChooser.addRoutine("GrantAutos", this::GrantsAutos);
    ```
 
 5. Then if you scroll down a bit further, you will see more methods:
@@ -37,9 +37,9 @@ return routine;
    ```
 6. Add your own like this:
    ```java
-   private AutoRoutine GrantAutos() {
-AutoRoutine routine = autoFactory.newRoutine("GrantAutos");
-AutoTrajectory traj = routine.trajectory("GrantAutos");
+   private AutoRoutine GrantsAutos() {
+AutoRoutine routine = autoFactory.newRoutine("GrantsAutos");
+AutoTrajectory traj = routine.trajectory("GrantsAutos");
 routine.active().onTrue(Commands.sequence(traj.resetOdometry(), traj.cmd()));
 return routine;
 }
@@ -50,7 +50,7 @@ Let's break down the code so you understand what you just added, this will be fo
 First, the line you put in `addAutos()`:
 
 ```java
-autoChooser.addRoutine("GrantAutos", this::GrantAutos);
+autoChooser.addRoutine("GrantAutos", this::GrantsAutos);
 ```
 
 This registers your auto with the chooser (the dropdown that shows up in NetworkTables). `"GrantAutos"` is the label you'll see and pick in the auto picker. `this::GrantAutos` hands over your `GrantAutos` method so the chooser can call it *only if* someone selects that option. Note the two names don't have to match each other, but the part after `this::` **must** exactly match your method's name below, or it won't compile.

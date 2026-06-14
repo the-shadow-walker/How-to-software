@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Choreo.md",
+                "file": "Move on X or Y axis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Choreo"
+              "title": "Move on X or Y axis"
             }
           }
         ]
@@ -185,23 +185,24 @@
   },
   "active": "7fa6762cd2363083",
   "lastOpenFiles": [
-    "Adding the auto to the auto picker and code.md",
+    "Pictues/ScreenRecording2026-06-13at10.48.01PM-ezgif.com-video-to-gif-converter.gif",
+    "Move on X or Y axis.md",
+    "Pictues/ScreenRecording2026-06-13at10.52.58PM-ezgif.com-video-to-gif-converter.gif",
+    "Pictues/ScreenRecording2026-06-13at10.00.29PM-ezgif.com-video-to-gif-converter.gif",
+    "Pictues/Pasted image 20260613222132.png",
+    "Pictues/ScreenRecording2026-06-13at10.08.16PM-ezgif.com-video-to-gif-converter.gif",
+    "Pictues/Pasted image 20260613220453.png",
     "Choreo.md",
+    "Adding the auto to the auto picker and code.md",
+    "Pictues/Pasted image 20260613184746.png",
+    "Pictues/Pasted image 20260613184532.png",
+    "Pictues/Pasted image 20260613184414.png",
     "How to software on the 4911 Cyberknights.md",
     "FRC Driver Station.md",
     "Safe battery handling.md",
     "Robot Radio.md",
     "Robot Power and Batteries.md",
     "Pictues/Pasted image 20260613154509.png",
-    "Pictues/Pasted image 20260613155139.png",
-    "Pictues/Pasted image 20260613155422.png",
-    "Pictues/Pasted image 20260613155443.png",
-    "Pictues/Pasted image 20260613110254.png",
-    "Pictues/Pasted image 20260613110140.png",
-    "Pictues/Pasted image 20260613110021.png",
-    "Pictues/Pasted image 20260613000314.png",
-    "Pictues/Pasted image 20260612235150.png",
-    "Pictues/Pasted image 20260612235058.png",
     "Adding it to the auto picker and code.md",
     "Building and naming paths.md",
     "Configure the radio.md",
@@ -228,7 +229,6 @@
     "Connect controllers.md.tmp.124244.94d6c273db33",
     "Recover from an E-stop.md.tmp.124244.8e65131ee542",
     "Enable and disable the robot.md.tmp.124244.f5003945733e",
-    "Subsystem Stub.md",
-    "Simulator.md"
+    "Subsystem Stub.md"
   ]
 }
