@@ -10,8 +10,6 @@ There are a few things you will need to know before you actually make an autonom
 - [ ] [[Adding the auto to the auto picker and code]]
 
 ## What you should be able to do
-- [ ] [[Move on X or Y axis]]
-- [ ] [[Rotate the robot]]
-- [ ] [[Max velocity constraint]]
-- [ ] [[Keep in lane constraint]]
-- [ ] [[Using a subsystem with markers ]]
+- [ ] [[Waypoints]]
+- [ ] [[Constraints]]
+- [ ] [[Markers]]
