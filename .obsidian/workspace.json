@@ -11,14 +11,12 @@
             "id": "7fa6762cd2363083",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Constraints.md",
-                "mode": "source",
-                "source": false
+                "file": "Pictues/Pasted image 20260615164844.png"
               },
-              "icon": "lucide-file",
-              "title": "Constraints"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260615164844"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recover from an E-stop.md",
+                "file": "Pictues/Pasted image 20260615164844.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Recover from an E-stop"
+              "title": "Backlinks for Pasted image 20260615164844"
             }
           },
           {
@@ -183,52 +181,52 @@
       "bases:Create new base": false
     }
   },
-  "active": "7fa6762cd2363083",
+  "active": "d38eebebf7d5853e",
   "lastOpenFiles": [
-    "Pictues/Screen Recording 2026-06-14 at 10.34.53 PM.gif",
-    "Constraints.md",
-    "Pictues/Pasted image 20260614222938.png",
-    "Pictues/Screen Recording 2026-06-14 at 10.40.31 PM.gif",
-    "Pictues/Screen Recording 2026-06-14 at 10.14.07 AM.gif",
-    "Pictues/Pasted image 20260614095643.png",
-    "Pictues/Pasted image 20260614214534.png",
-    "Choreo.md",
-    "Markers.md",
-    "Waypoints.md",
+    "Everything/Markers.md",
+    "Everything/Choreo.md",
+    "Everything/Constraints.md",
+    "Pictues/Screen Recording 2026-06-15 at 1.57.05 PM 1.gif",
+    "Pictues/Pasted image 20260615164844.png",
+    "Pictues/ScreenRecording2026-06-15at4.37.47PM-ezgif.com-video-to-gif-converter.gif",
     "How to software on the 4911 Cyberknights.md",
-    "Pictues/ScreenRecording2026-06-13at10.48.01PM-ezgif.com-video-to-gif-converter.gif",
-    "Pictues/ScreenRecording2026-06-14at10.01.07AM-ezgif.com-video-to-gif-converter.gif",
-    "Pictues/ScreenRecording2026-06-14at9.58.50AM-ezgif.com-video-to-gif-converter.gif",
-    "Pictues/ScreenRecording2026-06-13at10.52.58PM-ezgif.com-video-to-gif-converter.gif",
-    "Adding the auto to the auto picker and code.md",
-    "FRC Driver Station.md",
-    "Safe battery handling.md",
-    "Robot Radio.md",
-    "Robot Power and Batteries.md",
+    "Everything/Creating a project and saving it.md",
+    "Everything/Waypoints.md",
+    "Everything/Configuring the robot physics.md",
+    "Everything/Calculating MOI.md",
+    "Everything/Installing Choreo.md",
+    "Everything/Robot Power and Batteries.md",
+    "Everything/Reading battery voltage.md",
+    "Everything/Safe battery handling.md",
+    "Everything/Replace and test a battery.md",
+    "Pictues/ScreenRecording2026-06-15at1.57.05PM-ezgif.com-video-to-gif-converter.gif",
+    "Pictues/Screen Recording 2026-06-15 at 1.57.05 PM.gif",
+    "Pictues/Adobe Express - Screen Recording 2026-06-15 at 1.40.53 PM.gif",
+    "Everything/Subsystem Stub.md",
+    "Everything/Simulator.md",
+    "Pictues/Screen Recording 2026-06-14 at 11.35.03 PM.gif",
+    "Everything/Adding the auto to the auto picker and code.md",
+    "Everything",
+    "Pictues/Screen Recording 2026-06-14 at 11.52.14 PM.gif",
+    "Everything/Stop and Delay in Choreo.md",
+    "Pictues/Pasted image 20260614233233.png",
+    "Pictues/Pasted image 20260614233149.png",
+    "Everything/FRC Driver Station.md",
+    "Everything/Robot Radio.md",
     "Adding it to the auto picker and code.md",
-    "Building and naming paths.md",
-    "Configure the radio.md",
-    "Run an autonomous routine.md",
-    "Connect controllers.md",
-    "Recover from an E-stop.md",
-    "Enable and disable the robot.md",
-    "Reading battery voltage.md",
-    "Replace and test a battery.md",
+    "Everything/Building and naming paths.md",
+    "Everything/Configure the radio.md",
+    "Everything/Run an autonomous routine.md",
+    "Everything/Connect controllers.md",
+    "Everything/Recover from an E-stop.md",
     "Configure the radio.md.tmp.70847.cf0176ec9781",
     "Installing Choreo.md.tmp.70847.d59491b485f4",
     "Creating a project and saving it.md.tmp.70847.5f10147b8c08",
     "Configuring the robot physics.md.tmp.70847.266b733ccc5e",
     "Calculating MOI.md.tmp.70847.a9bf3256d295",
     "Choreo.md.tmp.70847.949466224a4f",
-    "Configuring the robot physics.md",
-    "Calculating MOI.md",
-    "Creating a project and saving it.md",
-    "Installing Choreo.md",
-    "Troubleshoot the radio.md",
-    "PhotonVision.md",
     "Run an autonomous routine.md.tmp.124244.f9dddbe35305",
     "Connect controllers.md.tmp.124244.94d6c273db33",
-    "Recover from an E-stop.md.tmp.124244.8e65131ee542",
-    "Enable and disable the robot.md.tmp.124244.f5003945733e"
+    "Recover from an E-stop.md.tmp.124244.8e65131ee542"
   ]
 }
